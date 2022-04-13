@@ -5,4 +5,5 @@ a inter 新建
 a enter 插入
 c s t  新建测试类
 tab 切到下一个
-
+c y 删除本行
+c e 选择

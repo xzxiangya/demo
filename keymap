@@ -2,8 +2,12 @@ c s enter 下一行
 c a v  生成变量
 c a s  打开设置
 a inter 新建
-a enter 插入
+a enter 自动插入，自动补全接口方法
 c s t  新建测试类
 tab 切到下一个
 c y 删除本行
 c e 选择
+a i 抽取接口
+a u 方法上传接口
+c a l 代码格式化
+c a f 作用域更改
